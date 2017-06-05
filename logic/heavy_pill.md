@@ -1,5 +1,5 @@
 # Question
-You have 10 bottles of pills, 9 bottles contain 1.0 gram pills, but one contains pill weighing 1.1 grams. Given a scale that provides an exact measurement, how would you find the heavy bottle? You can only use the scale once. You can take the pills out of the bottle.
+You have 10 bottles of pills, 9 bottles contain 1.0 gram pills, but one contains pills weighing 1.1 grams. Given a scale that provides an exact measurement, how would you find the heavy bottle? You can only use the scale once. You can take the pills out of the bottle.
 
 # Answer
 Take one pill from one bottle, two pills from the second bottle...
